@@ -7,9 +7,7 @@ I am Hailah from Saudi Arabia, data science is my passion, I really enjoy learni
 - 🔭 I’m currently working on getting job  
 - 🌱 I’m currently learning data analyis 
 
-- 📫 reach me on : 
-![<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://twitter.com/helacs1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](hailah-alharthi-942574178)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](HelaCS1)  
-
+- 📫 reach me on : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](helacs1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](hailah-alharthi-942574178)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](HelaCS1)  
 
 
 
