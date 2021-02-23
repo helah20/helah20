@@ -1,4 +1,14 @@
-### Hi there 👋
+# helah Alharthi
+I am Hailah from Saudi Arabia  , data science is my passion , I realy injoy learning language like Python , java and R , I am also able to visualize data with many tech like Tableau , R  and python >
+
+
+## Skills and Experience :
+* python
+* HTML , CSS , JS
+* R
+* Django
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?helah20=anuraghazra&hide=contribs,prs)
 
 <!--
 **helah20/helah20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
