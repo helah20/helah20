@@ -7,9 +7,6 @@ I am Hailah from Saudi Arabia, data science is my passion, I really enjoy learni
 - 🔭 I’m currently working on getting job  
 - 🌱 I’m currently learning data analyis 
 
-- 📫 reach me on : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](helacs1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](hailah-alharthi-942574178)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](HelaCS1)  
-
-
 
 ## Skills and Experience :
 
@@ -18,7 +15,7 @@ I am Hailah from Saudi Arabia, data science is my passion, I really enjoy learni
 * R
 * Django
 
-##PROJECT :
+##  PROJECT :
 ### Saudi Crisis Tracker app - Graduate Project
 
 an android application based on Twitter tweets that provide services to customers within the frame of recognizing that crisis that happens in a specific place to be aware and stay in a safe place.
@@ -36,6 +33,7 @@ apply advanced SQL  with AWS using BlazingSql Jupyter. We collected information 
 explore and analyze a dataset that holds specifications of mobile phones as well as attempt to predict the best price ranges for a list of mobile phones in the market by applying various machine learning algorithms.
 
 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](helacs1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](hailah-alharthi-942574178)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](HelaCS1)  
 
 
 <!--
