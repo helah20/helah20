@@ -1,5 +1,5 @@
 # Helah
-#### Data Scientist 
+
 
 I am Hailah from Saudi Arabia, data science is my passion, I really enjoy learning languages like Python, Java, and R , I am also able to visualize data with many techs like Tableau, R, and python.
 
@@ -12,10 +12,29 @@ I am Hailah from Saudi Arabia, data science is my passion, I really enjoy learni
 
 
 ## Skills and Experience :
+
 * python
 * HTML , CSS , JS
 * R
 * Django
+
+##PROJECT :
+### Saudi Crisis Tracker app - Graduate Project
+
+an android application based on Twitter tweets that provide services to customers within the frame of recognizing that crisis that happens in a specific place to be aware and stay in a safe place.
+
+### CyberMatch Game 
+
+A game of finding identical pairs of cybersecurity terms, the purpose of which is: Promote cybersecurity terminology. Raise cyber awareness. Enhance education with games.
+
+### NYC Taxi Data Analysis 
+
+apply advanced SQL  with AWS using BlazingSql Jupyter. We collected information from the Yellow Taxi Trip Records dataset. Moreover, we visualized diversifying chart types.
+
+### mobile-price-classification
+
+explore and analyze a dataset that holds specifications of mobile phones as well as attempt to predict the best price ranges for a list of mobile phones in the market by applying various machine learning algorithms.
+
 
 
 
