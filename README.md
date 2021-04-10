@@ -13,8 +13,7 @@ I am Hailah from Saudi Arabia, Data science is my passion, I really enjoy learni
 * HTML , CSS , JS
 * R
 * Django
-* penteration testin
-* 
+* penteration testing
 
 ##  PROJECT :
 ### Saudi Crisis Tracker app - Graduate Project
@@ -34,9 +33,7 @@ apply advanced SQL  with AWS using BlazingSql Jupyter. We collected information 
 explore and analyze a dataset that holds specifications of mobile phones as well as attempt to predict the best price ranges for a list of mobile phones in the market by applying various machine learning algorithms.
 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/helah20)  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hailah-alharthi-942574178/)  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HelaCS1)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/helah20)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hailah-alharthi-942574178/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HelaCS1)  
 
 
 <!--
