@@ -3,8 +3,8 @@
 
 I am Hailah from Saudi Arabia, Data science is my passion, I really enjoy learning languages like Python, Java, and R and I am also able to visualize data using many technologies such as Tableau, R, and python. I also love the field of cybersecurity, I enjoy reading about security vulnerabilities, how they occur, and the mechanism for protection from them. I hope to be a pioneer in both fields, as they are truly complementary to each other.
 
-- 🔭 I’m currently working at home to improve my skills
-- 🌱 I’m currently learning data science & cloud security
+- 🔭 I’m currently working at Resilince Co.
+- 🌱 I’m currently learning Pentesting  & cyber security
 
 
 ## Skills and Experience :
